@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Rough files:
+Code/Plotting/*_rough.ipynb
+Code/Calculations/*_rough.ipynb
+
+# My files
+Code/Plotting/*source*
+Code/Calculations/*source*
+
 # C extensions
 *.so
 
@@ -161,6 +169,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Rough files:
-Code/Plotting/*_rough.ipynb
-Code/Calculations/*_rough.ipynb
+
